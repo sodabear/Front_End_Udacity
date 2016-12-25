@@ -1,1 +1,46 @@
 /* add your CSS here */
+
+
+
+
+
+img{
+  width  :300px;
+  height :300px;
+  padding: 2px;
+}
+span {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.frame1 {
+  border: 1px solid black;
+  padding: 3%;
+  width:320px;
+  height:700px;
+}
+
+
+
+
+.frame2 {
+  width:300px;
+  height:300px;
+  border: 1px solid black;
+  padding: 2px;
+}
+
+.fun_fact {
+    font-style: italic;
+    padding: 1%;
+}
+.four_list{
+    padding: 1%;
+}
+.description{
+    padding: 1%;
+}
